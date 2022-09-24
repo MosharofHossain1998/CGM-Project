@@ -3,6 +3,9 @@
 #include <math.h>>
 using namespace std;
 
+    ///Hello Every one.
+    ///this is mosharof hossain
+
 int main (){
     int gd=DETECT, gm, i;
     initgraph (&gd, &gm, (char*)"");
@@ -163,3 +166,10 @@ int main (){
     closegraph();
     return 0;
 }
+void test(){
+
+    cout<< "Hello world";
+}
+//
+//
+//
