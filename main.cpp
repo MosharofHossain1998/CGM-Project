@@ -166,10 +166,7 @@ int main (){
     closegraph();
     return 0;
 }
-void test(){
 
-    cout<< "Hello world";
-}
 //
 //
 //
