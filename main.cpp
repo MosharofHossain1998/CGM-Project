@@ -166,6 +166,9 @@ int main (){
     closegraph();
     return 0;
 }
+void M(){
+    cout<<"Here add a void function"<<endl;
+}
 
 //
 //
